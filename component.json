@@ -1,0 +1,11 @@
+{
+  "name": "elements-each",
+  "repo": "enricomarino/elements-each",
+  "description": "each, plugin for elements",
+  "version": "0.0.1",
+  "keywords": ["elements", "each"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
